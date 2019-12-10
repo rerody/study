@@ -12,6 +12,8 @@ public class RankVO {
 
     private String humanId;
 
+    private String humanName;
+
     public int getId() {
         return id;
     }
@@ -52,14 +54,23 @@ public class RankVO {
         this.humanId = humanId;
     }
 
+    public String getHumanName() {
+        return humanName;
+    }
+
+    public void setHumanName(String humanName) {
+        this.humanName = humanName;
+    }
+
     public RankVO() {
     }
 
-    public RankVO(int id, int type, long date, long value, String humanId) {
+    public RankVO(int id, int type, long date, long value, String humanId, String humanName) {
         this.id = id;
         this.type = type;
         this.date = date;
         this.value = value;
         this.humanId = humanId;
+        this.humanName = humanName;
     }
 }

@@ -25,7 +25,7 @@ public class RankManager {
     }
 
 
-    public List<RankVO> getRankList(RankInterface rankInterface) {
+    public List<RankVO> getRankListFilter(RankInterface rankInterface) {
         List<RankVO> ranks = new ArrayList<>();
         for (RankVO rankVO : rankList) {
             if (rankInterface.condition(rankVO)) {

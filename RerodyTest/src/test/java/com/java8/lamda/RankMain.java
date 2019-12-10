@@ -12,7 +12,7 @@ public class RankMain {
         RankManager rankManager = RankManager.getInstance();
         rankManager.init(100);
 
-        List<RankVO> rankList = rankManager.getRankList(r -> r.getValue() > 90);
+        List<RankVO> rankList = rankManager.getRankListFilter(r -> r.getValue() > 90);
 
         rankList.forEach(r -> System.out.println(r.getValue()));
 
