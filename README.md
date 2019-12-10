@@ -1,2 +1,4 @@
-# study
-学习、测试、代码
+1.test code
+2.study java
+3.play rank
+4.more
