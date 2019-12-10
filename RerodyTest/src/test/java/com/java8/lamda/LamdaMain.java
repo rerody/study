@@ -6,7 +6,6 @@ public class LamdaMain {
 
     public static void main(String[] args) {
         LamdaBase.teet1();
-
         //language=json
         String ss = "{\n" +
                 "  " +

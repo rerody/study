@@ -5,7 +5,25 @@ import java.util.List;
 
 public class LamdaBase {
 
-    public static void teet1(){
+    /**
+     * 基本数据类型
+     * <table>
+     *     <th>
+     *         <td>类型</td><td>型别</td><td>字节</td>
+     *     </th>
+     *     <tr><td></td><td></td><td></td></tr>
+     *     <tr><td></td><td></td><td></td></tr>
+     *     <tr><td></td><td></td><td></td></tr>
+     *     <tr><td></td><td></td><td></td></tr>
+     *     <tr><td></td><td></td><td></td></tr>
+     *     <tr><td></td><td></td><td></td></tr>
+     *     <tr><td></td><td></td><td></td></tr>
+     *     <tr><td></td><td></td><td></td></tr>
+     *     <tr><td></td><td></td><td></td></tr>
+     *     <tr><td></td><td></td><td></td></tr>
+     * </table>
+     */
+    public static void teet1() {
         List<Integer> list = new ArrayList<>();
         list.add(1);
         list.add(2);
