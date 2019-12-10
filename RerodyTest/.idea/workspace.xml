@@ -19,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1UW8QidX0LMeKf2RGaR59mtnoie" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -45,6 +46,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RunManager" selected="Application.RankService">
     <configuration name="RankService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -107,28 +109,77 @@
       <workItem from="1575509588239" duration="3948000" />
       <workItem from="1575597843115" duration="3288000" />
       <workItem from="1575857809992" duration="14773000" />
-      <workItem from="1575945350199" duration="1963000" />
+      <workItem from="1575945350199" duration="3679000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$/.." />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="442" y="141" key="#Project_Structure" timestamp="1575463654664">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="552" y="178" key="#Project_Structure" timestamp="1575957596061">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="442" y="141" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1575463654664" />
-    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1575461143906" />
-    <state x="716" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1575945640502">
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1575957596061" />
+    <state x="716" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1575957999092">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="573" y="99" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1575463756870" />
-    <state x="716" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575945640502" />
+    <state x="716" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575957999092" />
     <state width="425" height="466" key="DebuggerActiveHint" timestamp="1575883596032">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="425" height="466" key="DebuggerActiveHint/0.0.1536.824@0.0.1536.824" timestamp="1575883596032" />
+    <state x="129" y="110" width="1488" height="760" key="DiffContextDialog" timestamp="1575958619067">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="129" y="110" width="1488" height="760" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575958619067" />
+    <state x="841" y="226" key="FileChooserDialogImpl" timestamp="1575958211840">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="841" y="226" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575958211840" />
     <state width="1493" height="235" key="GridCell.Tab.0.bottom" timestamp="1575894473141">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -189,10 +240,30 @@
     </state>
     <state width="1488" height="239" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1575463282161" />
     <state width="1877" height="320" key="GridCell.Tab.2.right/0.0.1920.1040@0.0.1920.1040" timestamp="1575461412957" />
+    <state x="480" y="196" key="SettingsEditor" timestamp="1575958497997">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="480" y="196" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575958497997" />
+    <state x="129" y="110" width="1488" height="760" key="VCS.FileHistoryDialog" timestamp="1575958287389">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="129" y="110" width="1488" height="760" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575958287389" />
+    <state x="649" y="137" key="Vcs.Push.Dialog.v2" timestamp="1575958355242">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="649" y="137" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575958355242" />
+    <state x="803" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1575957495700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="397" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1575957495700" />
     <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1575885578860">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="321" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1575885578860" />
+    <state x="746" y="255" key="git4idea.merge.GitPullDialog" timestamp="1575958573127">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="255" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575958573127" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1575884620341">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

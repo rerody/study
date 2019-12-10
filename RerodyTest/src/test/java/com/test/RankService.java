@@ -24,7 +24,7 @@ public class RankService {
 
         long time = System.currentTimeMillis() - t;
 
-        System.out.println("执行耗时" + time);
+        System.out.println("打w印执行耗时" + time);
 
     }
 
