@@ -118,4 +118,13 @@ class RankVO {
     public void setLevel(int level) {
         this.level = level;
     }
+
+    public RankVO() {
+    }
+
+    public RankVO(int id, int data, int level) {
+        this.id = id;
+        this.data = data;
+        this.level = level;
+    }
 }
